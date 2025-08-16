@@ -71,6 +71,10 @@ A full-stack, production-ready web application that replicates the core function
    npm start
    ```
 
+## 🌐 Live Demo
+
+You can access the live deployed application here: [https://power-point-editor-application.vercel.app/](https://power-point-editor-application.vercel.app/)
+
 ## 📁 Project Structure
 
 ```
