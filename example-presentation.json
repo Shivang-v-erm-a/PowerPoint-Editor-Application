@@ -1,0 +1,286 @@
+[
+  {
+    "id": "1",
+    "elements": [
+      {
+        "id": "title1",
+        "type": "text",
+        "left": 200,
+        "top": 100,
+        "text": "Welcome to PowerPoint Editor",
+        "fontSize": 32,
+        "fontFamily": "Arial",
+        "fill": "#1f2937"
+      },
+      {
+        "id": "subtitle1",
+        "type": "text",
+        "left": 250,
+        "top": 160,
+        "text": "A powerful presentation creation tool",
+        "fontSize": 18,
+        "fontFamily": "Arial",
+        "fill": "#6b7280"
+      },
+      {
+        "id": "rect1",
+        "type": "rect",
+        "left": 150,
+        "top": 220,
+        "width": 500,
+        "height": 200,
+        "fill": "#e3f2fd",
+        "stroke": "#1976d2",
+        "strokeWidth": 2
+      },
+      {
+        "id": "text2",
+        "type": "text",
+        "left": 180,
+        "top": 250,
+        "text": "Features:",
+        "fontSize": 20,
+        "fontFamily": "Arial",
+        "fill": "#1976d2"
+      },
+      {
+        "id": "text3",
+        "type": "text",
+        "left": 180,
+        "top": 290,
+        "text": "• Add and manage multiple slides",
+        "fontSize": 16,
+        "fontFamily": "Arial",
+        "fill": "#374151"
+      },
+      {
+        "id": "text4",
+        "type": "text",
+        "left": 180,
+        "top": 320,
+        "text": "• Create text, shapes, and images",
+        "fontSize": 16,
+        "fontFamily": "Arial",
+        "fill": "#374151"
+      },
+      {
+        "id": "text5",
+        "type": "text",
+        "left": 180,
+        "top": 350,
+        "text": "• Save and load presentations",
+        "fontSize": 16,
+        "fontFamily": "Arial",
+        "fill": "#374151"
+      },
+      {
+        "id": "text6",
+        "type": "text",
+        "left": 180,
+        "top": 380,
+        "text": "• Professional editing tools",
+        "fontSize": 16,
+        "fontFamily": "Arial",
+        "fill": "#374151"
+      }
+    ],
+    "background": "#ffffff"
+  },
+  {
+    "id": "2",
+    "elements": [
+      {
+        "id": "title2",
+        "type": "text",
+        "left": 200,
+        "top": 100,
+        "text": "Getting Started",
+        "fontSize": 32,
+        "fontFamily": "Arial",
+        "fill": "#1f2937"
+      },
+      {
+        "id": "circle1",
+        "type": "circle",
+        "left": 100,
+        "top": 200,
+        "radius": 60,
+        "fill": "#fef3c7",
+        "stroke": "#f59e0b",
+        "strokeWidth": 3
+      },
+      {
+        "id": "text7",
+        "type": "text",
+        "left": 80,
+        "top": 280,
+        "text": "1. Select a tool",
+        "fontSize": 16,
+        "fontFamily": "Arial",
+        "fill": "#92400e"
+      },
+      {
+        "id": "rect2",
+        "type": "rect",
+        "left": 300,
+        "top": 200,
+        "width": 120,
+        "height": 80,
+        "fill": "#dbeafe",
+        "stroke": "#3b82f6",
+        "strokeWidth": 2
+      },
+      {
+        "id": "text8",
+        "type": "text",
+        "left": 320,
+        "top": 300,
+        "text": "2. Click to add",
+        "fontSize": 16,
+        "fontFamily": "Arial",
+        "fill": "#1e40af"
+      },
+      {
+        "id": "line1",
+        "type": "line",
+        "left": 500,
+        "top": 200,
+        "x1": 0,
+        "y1": 0,
+        "x2": 100,
+        "y2": 100,
+        "stroke": "#10b981",
+        "strokeWidth": 4
+      },
+      {
+        "id": "text9",
+        "type": "text",
+        "left": 520,
+        "top": 320,
+        "text": "3. Customize",
+        "fontSize": 16,
+        "fontFamily": "Arial",
+        "fill": "#065f46"
+      }
+    ],
+    "background": "#f9fafb"
+  },
+  {
+    "id": "3",
+    "elements": [
+      {
+        "id": "title3",
+        "type": "text",
+        "left": 200,
+        "top": 100,
+        "text": "Advanced Features",
+        "fontSize": 32,
+        "fontFamily": "Arial",
+        "fill": "#1f2937"
+      },
+      {
+        "id": "rect3",
+        "type": "rect",
+        "left": 100,
+        "top": 180,
+        "width": 250,
+        "height": 150,
+        "fill": "#f3e8ff",
+        "stroke": "#9333ea",
+        "strokeWidth": 2
+      },
+      {
+        "id": "text10",
+        "type": "text",
+        "left": 120,
+        "top": 200,
+        "text": "Image Support:",
+        "fontSize": 18,
+        "fontFamily": "Arial",
+        "fill": "#7c3aed"
+      },
+      {
+        "id": "text11",
+        "type": "text",
+        "left": 120,
+        "top": 230,
+        "text": "• Upload from URL",
+        "fontSize": 14,
+        "fontFamily": "Arial",
+        "fill": "#581c87"
+      },
+      {
+        "id": "text12",
+        "type": "text",
+        "left": 120,
+        "top": 250,
+        "text": "• Local file upload",
+        "fontSize": 14,
+        "fontFamily": "Arial",
+        "fill": "#581c87"
+      },
+      {
+        "id": "text13",
+        "type": "text",
+        "left": 120,
+        "top": 270,
+        "text": "• Multiple formats",
+        "fontSize": 14,
+        "fontFamily": "Arial",
+        "fill": "#581c87"
+      },
+      {
+        "id": "rect4",
+        "type": "rect",
+        "left": 400,
+        "top": 180,
+        "width": 250,
+        "height": 150,
+        "fill": "#ecfdf5",
+        "stroke": "#059669",
+        "strokeWidth": 2
+      },
+      {
+        "id": "text14",
+        "type": "text",
+        "left": 420,
+        "top": 200,
+        "text": "File Operations:",
+        "fontSize": 18,
+        "fontFamily": "Arial",
+        "fill": "#047857"
+      },
+      {
+        "id": "text15",
+        "type": "text",
+        "left": 420,
+        "top": 230,
+        "text": "• Save as JSON",
+        "fontSize": 14,
+        "fontFamily": "Arial",
+        "fill": "#064e3b"
+      },
+      {
+        "id": "text16",
+        "type": "text",
+        "left": 420,
+        "top": 250,
+        "text": "• Load presentations",
+        "fontSize": 14,
+        "fontFamily": "Arial",
+        "fill": "#064e3b"
+      },
+      {
+        "id": "text17",
+        "type": "text",
+        "left": 420,
+        "top": 270,
+        "text": "• Export ready",
+        "fontSize": 14,
+        "fontFamily": "Arial",
+        "fill": "#064e3b"
+      }
+    ],
+    "background": "#ffffff"
+  }
+]

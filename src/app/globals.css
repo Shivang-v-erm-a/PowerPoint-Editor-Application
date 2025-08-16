@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+/* Modern Font Stack */
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/Inter-Regular.woff2') format('woff2'),
+       url('/fonts/Inter-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/Inter-Bold.woff2') format('woff2'),
+       url('/fonts/Inter-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+:root {
+  /* Refined Color Palette */
+  --primary: #3B82F6; /* A vibrant blue for primary actions */
+  --secondary: #6B7280; /* A softer gray for secondary elements */
+  --accent: #2563EB; /* A darker blue for emphasis */
+  --background: #F9FAFB; /* A very light gray for the main background */
+  --foreground: #1F2937; /* A dark gray for primary text */
+  --muted: #E5E7EB; /* A light gray for muted elements and borders */
+  --success: #16A34A; /* Green for success states */
+  --error: #DC2626; /* Red for error states */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #111827; /* Dark gray for dark mode background */
+    --foreground: #E5E7EB; /* Light gray for dark mode text */
+    --muted: #374151; /* Darker gray for muted elements in dark mode */
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Add more global styles here if needed */
